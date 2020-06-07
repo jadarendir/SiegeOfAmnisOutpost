@@ -1,0 +1,537 @@
+<mission_data version="1.0" background_id_arme="461ac6de-9b1b-4ebb-ad00-faf3e2e55fc8" playerShipNames_arme="Artemis\Intrepid\Aegis\Horatio\Excalibur\Hera\Ceres\Diana">
+  <start id_arme="461ac6de-9b1b-4ebb-ad00-faf3e2e55fc8">
+    <set_variable name="Message" value="0.0" integer="yes" />
+    <set_variable name="Bases" value="3.0" integer="yes" />
+    <set_variable name="DS3" value="1.0" integer="yes" />
+    <set_variable name="DS4" value="1.0" integer="yes" />
+    <set_variable name="DS5" value="1.0" integer="yes" />
+    <set_variable name="Skaraans" value="0.0" integer="yes" />
+    <create count="50" type="asteroids" startX="49066.0" startY="0.0" startZ="15121.0" endX="49066.0" endY="0.0" endZ="15121.0" randomRange="5000" randomSeed="12345" />
+    <create count="50" type="asteroids" startX="40035.0" startY="0.0" startZ="20830.0" endX="40035.0" endY="0.0" endZ="20830.0" randomRange="5000" randomSeed="4561" />
+    <create count="50" type="asteroids" startX="32146.0" startY="0.0" startZ="22595.0" endX="32146.0" endY="0.0" endZ="22595.0" randomRange="5000" randomSeed="22556" />
+    <create count="50" type="asteroids" startX="25398.0" startY="0.0" startZ="26020.0" endX="25398.0" endY="0.0" endZ="26020.0" randomRange="5000" randomSeed="7894" />
+    <create count="50" type="asteroids" startX="20623.0" startY="0.0" startZ="33391.0" endX="20623.0" endY="0.0" endZ="33391.0" randomRange="5000" randomSeed="65325" />
+    <create count="50" type="asteroids" startX="19585.0" startY="0.0" startZ="41487.0" endX="19585.0" endY="0.0" endZ="41487.0" randomRange="5000" randomSeed="65325" />
+    <create count="50" type="asteroids" startX="14395.0" startY="0.0" startZ="45432.0" endX="14395.0" endY="0.0" endZ="45432.0" randomRange="5000" randomSeed="159753" />
+    <create count="10" type="asteroids" startX="56540.0" startY="0.0" startZ="9411.0" endX="56540.0" endY="0.0" endZ="9411.0" randomRange="5000" />
+    <create count="10" type="asteroids" startX="9931.0" startY="0.0" startZ="34325.0" endX="9931.0" endY="0.0" endZ="34325.0" randomRange="5000" randomSeed="1546" />
+    <create count="10" type="asteroids" startX="33080.0" startY="0.0" startZ="32145.0" endX="33080.0" endY="0.0" endZ="32145.0" randomRange="5000" randomSeed="2464" />
+    <create count="50" type="asteroids" startX="24257.0" startY="0.0" startZ="19584.0" endX="24257.0" endY="0.0" endZ="19584.0" randomRange="20000" />
+    <create count="10" type="asteroids" startX="5156.0" startY="0.0" startZ="55501.0" endX="5156.0" endY="0.0" endZ="55501.0" randomRange="5000" />
+    <create count="50" type="mines" startX="69205.0" startY="0.0" startZ="69204.0" endX="69205.0" endY="0.0" endZ="69204.0" randomRange="5000" randomSeed="1" />
+    <create count="50" type="mines" startX="87578.0" startY="0.0" startZ="75432.0" endX="87578.0" endY="0.0" endZ="75432.0" randomRange="5000" randomSeed="5156" />
+    <create count="50" type="mines" startX="71073.0" startY="0.0" startZ="86643.0" endX="71073.0" endY="0.0" endZ="86643.0" randomRange="5000" randomSeed="4" />
+    <create count="100" type="mines" startX="92976.0" startY="0.0" startZ="75951.0" endX="92976.0" endY="0.0" endZ="75951.0" randomRange="10000" />
+    <create count="100" type="mines" startX="67336.0" startY="0.0" startZ="91003.0" endX="67336.0" endY="0.0" endZ="91003.0" randomRange="10000" randomSeed="45151" />
+    <create count="100" type="mines" startX="64637.0" startY="0.0" startZ="65570.0" endX="64637.0" endY="0.0" endZ="65570.0" randomRange="10000" randomSeed="65951" />
+    <create count="200" type="nebulas" startX="80831.0" startY="0.0" startZ="26955.0" endX="80831.0" endY="0.0" endZ="26955.0" randomRange="12000" />
+    <create count="80" type="nebulas" startX="90174.0" startY="0.0" startZ="8373.0" endX="90174.0" endY="0.0" endZ="8373.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="64533.0" startY="0.0" startZ="33910.0" endX="64533.0" endY="0.0" endZ="33910.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="62769.0" startY="0.0" startZ="41176.0" endX="62769.0" endY="0.0" endZ="41176.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="83322.0" startY="0.0" startZ="2041.0" endX="83322.0" endY="0.0" endZ="2041.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="37129.0" startY="0.0" startZ="59342.0" endX="37129.0" endY="0.0" endZ="59342.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="31731.0" startY="0.0" startZ="71903.0" endX="31731.0" endY="0.0" endZ="71903.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="15329.0" startY="0.0" startZ="65259.0" endX="15329.0" endY="0.0" endZ="65259.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="13357.0" startY="0.0" startZ="79169.0" endX="13357.0" endY="0.0" endZ="79169.0" randomRange="8000" />
+    <create count="80" type="nebulas" startX="1834.0" startY="0.0" startZ="82283.0" endX="1834.0" endY="0.0" endZ="82283.0" randomRange="8000" />
+    <create count="100" type="nebulas" startX="21973.0" startY="0.0" startZ="91211.0" endX="21973.0" endY="0.0" endZ="91211.0" randomRange="8000" />
+    <create count="50" type="nebulas" startX="97959.0" startY="0.0" startZ="34013.0" endX="97959.0" endY="0.0" endZ="34013.0" randomRange="5000" randomSeed="20" />
+    <create type="player" x="50000.0" y="0.0" z="50000.0" angle="0" name="Artemis" warp="yes" jump="no" />
+    <create type="Anomaly" pickupType="6" x="22388.0" y="0.0" z="15224.0" />
+    <create type="Anomaly" pickupType="0" x="11281.0" y="0.0" z="8581.0" />
+    <create type="Anomaly" pickupType="7" x="8478.0" y="0.0" z="14913.0" />
+    <create type="Anomaly" pickupType="4" x="29135.0" y="0.0" z="6193.0" />
+    <create type="Anomaly" pickupType="2" x="12526.0" y="0.0" z="29134.0" />
+    <create type="Anomaly" pickupType="0" x="8374.0" y="0.0" z="23633.0" />
+    <create type="Anomaly" pickupType="6" x="34118.0" y="0.0" z="9100.0" />
+    <create type="Anomaly" pickupType="7" x="44084.0" y="0.0" z="7335.0" />
+    <create type="station" x="77498.0" y="0.0" z="77304.0" name="DS5" hullID="1000" sideValue="2" />
+    <create type="station" x="32769.0" y="0.0" z="28927.0" name="DS4" hullID="1000" sideValue="2" />
+    <create type="station" x="50000.0" y="0.0" z="49900.0" name="DS3" hullID="1000" sideValue="2" />
+    <create type="blackHole" x="77509.0" y="0.0" z="46159.0" name="Amnis 1" />
+    <create type="blackHole" x="35487.0" y="0.0" z="85713.0" name="Amnis 2" />
+    <create type="Anomaly" pickupType="0" x="90277.0" y="0.0" z="50934.0" />
+    <create type="monster" monsterType="4" podnumber="1" x="3288.0" y="0.0" z="92560.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="5052.0" y="0.0" z="93598.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="3080.0" y="0.0" z="93910.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="4637.0" y="0.0" z="92145.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="5052.0" y="0.0" z="95363.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="4326.0" y="0.0" z="94532.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="2665.0" y="0.0" z="95570.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="1938.0" y="0.0" z="93910.0" angle="300" />
+    <create type="monster" monsterType="4" podnumber="1" x="6609.0" y="0.0" z="94532.0" angle="300" />
+    <create type="Anomaly" pickupType="5" x="87371.0" y="0.0" z="54567.0" />
+    <create type="Anomaly" pickupType="6" x="85814.0" y="0.0" z="91522.0" />
+    <create type="Anomaly" pickupType="2" x="91523.0" y="0.0" z="92249.0" />
+    <create type="Anomaly" pickupType="0" x="94430.0" y="0.0" z="88823.0" />
+    <create type="Anomaly" pickupType="7" x="47094.0" y="0.0" z="86539.0" />
+    <create type="monster" monsterType="3" age="3" x="4430.0" y="0.0" z="6251.0" angle="240" />
+    <create type="neutral" x="53507.0" y="0.0" z="26020.0" angle="160" hullID="0" sideValue="2" />
+    <create type="neutral" x="25398.0" y="0.0" z="55916.0" angle="280" hullID="1" sideValue="2" />
+    <set_difficulty_level value="5" />
+    <set_skybox_index index="10" />
+    <set_object_property property="nebulaIsOpaque" value="0" />
+    <set_object_property property="sensorSetting" value="0" />
+    <set_object_property property="nonPlayerSpeed" value="100" />
+    <set_object_property property="nonPlayerShield" value="100" />
+    <set_object_property property="nonPlayerWeapon" value="100" />
+    <set_object_property property="playerWeapon" value="100" />
+    <set_object_property property="playerShields" value="100" />
+    <big_message title="Siege of Amnis Outpost" subtitle1="by Jadarendir" subtitle2="adventure for Artemis 2.7.5" />
+    <set_timer name="start_mission_timer_1" seconds="10" />
+  </start>
+  <event name="Alert" id_arme="f593e543-c583-43d4-94f3-2858790c32dc">
+    <if_variable name="Message" comparator="EQUALS" value="0.0" />
+    <if_timer_finished name="start_mission_timer_1" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">TSN vessels be advised: long-range sensors have picked up multiple unknown contacts inbound to Amnis Outpost. Recommend you go to yellow alert and keep an eye on the nebula stream. We'll relay our readings to your science console to boost your sensor range.</incoming_comms_text>
+    <set_timer name="Calm_before_the_storm_1" seconds="30" />
+    <set_variable name="Message" value="1.0" integer="yes" />
+    <set_timer name="Skaraans1" seconds="600" />
+  </event>
+  <event name="Wave 1" id_arme="8fe6bd01-4589-470e-828c-7dc72c8ea919">
+    <if_timer_finished name="Calm_before_the_storm_1" />
+    <if_variable name="Message" comparator="EQUALS" value="1.0" />
+    <create type="enemy" x="90000.0" y="0.0" z="1000.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33000.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="89000.0" y="0.0" z="1000.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="91000.0" y="0.0" z="1000.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="90500.0" y="0.0" z="2000.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="89500.0" y="0.0" z="2000.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="78100.0" angle="290" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="79100.0" angle="290" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="77100.0" angle="290" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="2000.0" y="0.0" z="78100.0" angle="290" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="47000.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="48000.0" y="0.0" z="99000.0" angle="0" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="49000.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="48500.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="47500.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="34000.0" angle="90" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="35000.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="34000.0" angle="90" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">PROXIMITY ALERT: Multiple Kralien fleets inbound. TSN vessels, defend the stations!</incoming_comms_text>
+    <set_variable name="Message" value="2.0" integer="yes" />
+  </event>
+  <event name="Wave 2.1" id_arme="40a7e159-8083-4f6c-9696-613a2cc2c58b">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="2.0" />
+    <if_exists name="DS3" />
+    <set_difficulty_level value="7" />
+    <create type="enemy" x="94100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93100.0" y="0.0" z="5300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="95100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="94600.0" y="0.0" z="6300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93600.0" y="0.0" z="6300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="31500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="32500.0" angle="90" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="32500.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="40000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="44000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">PROXIMITY ALERT: Looks like the Kraliens brought some Torgoth backup! Get ready for the second wave!</incoming_comms_text>
+    <set_variable name="Message" value="3.0" integer="yes" />
+  </event>
+  <event name="Wave 2.2" id_arme="07ac191b-3f5f-4d93-91b2-e336e2927c86">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="2.0" />
+    <if_not_exists name="DS3" />
+    <if_exists name="DS4" />
+    <set_difficulty_level value="7" />
+    <create type="enemy" x="94100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93100.0" y="0.0" z="5300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="95100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="94600.0" y="0.0" z="6300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93600.0" y="0.0" z="6300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="31500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="32500.0" angle="90" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="32500.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="40000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="44000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS4" sideValue="2" type="ALERT">PROXIMITY ALERT: Looks like the Kraliens brought some Torgoth backup! Get ready for the second wave!</incoming_comms_text>
+    <set_variable name="Message" value="3.0" integer="yes" />
+  </event>
+  <event name="Wave 2.3" id_arme="8e21b0d5-9477-427f-9ee4-4faac3acdf6f">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="2.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_exists name="DS5" />
+    <set_difficulty_level value="7" />
+    <create type="enemy" x="94100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93100.0" y="0.0" z="5300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="95100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="94600.0" y="0.0" z="6300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93600.0" y="0.0" z="6300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="31500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="32500.0" angle="90" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="32500.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="40000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="44000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS5" sideValue="2" type="ALERT">PROXIMITY ALERT: Looks like the Kraliens brought some Torgoth backup! Get ready for the second wave!</incoming_comms_text>
+    <set_variable name="Message" value="3.0" integer="yes" />
+  </event>
+  <event name="Wave 2.4" id_arme="1410e967-87f8-4c1c-bc91-d442642be6e5">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="2.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <set_difficulty_level value="7" />
+    <create type="enemy" x="94100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93100.0" y="0.0" z="5300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="95100.0" y="0.0" z="5300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="94600.0" y="0.0" z="6300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="93600.0" y="0.0" z="6300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="31500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33500.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="32500.0" angle="90" hullID="2002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="32500.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="40000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="44000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">PROXIMITY ALERT: Long-range sensors detecting additional hostile contacts.</incoming_comms_text>
+    <set_variable name="Message" value="3.0" integer="yes" />
+  </event>
+  <event name="Wave 3.1" id_arme="43960a4e-a384-4206-8e87-80e83199431d">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="3.0" />
+    <if_exists name="DS3" />
+    <set_difficulty_level value="9" />
+    <create type="enemy" x="78400.0" y="0.0" z="1300.0" angle="145" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77400.0" y="0.0" z="1300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="79400.0" y="0.0" z="1300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="78900.0" y="0.0" z="2300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77900.0" y="0.0" z="2300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="35700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="34700.0" angle="90" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="34700.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="64000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="62000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="66200.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="3000.0" y="0.0" z="64000.0" angle="270" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="11488.0" y="0.0" z="1003.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1731.0" y="0.0" z="29031.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="44603.0" y="0.0" z="1107.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">PROXIMITY ALERT: Last wave! Looks like they saved Arvonian carriers for last. Good luck!</incoming_comms_text>
+    <set_variable name="Message" value="4.0" integer="yes" />
+  </event>
+  <event name="Wave 3.2" id_arme="eb6fa553-ed4b-4ed0-99a1-8c46347a0779">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="3.0" />
+    <if_not_exists name="DS3" />
+    <if_exists name="DS4" />
+    <set_difficulty_level value="9" />
+    <create type="enemy" x="78400.0" y="0.0" z="1300.0" angle="145" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77400.0" y="0.0" z="1300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="79400.0" y="0.0" z="1300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="78900.0" y="0.0" z="2300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77900.0" y="0.0" z="2300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="35700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="34700.0" angle="90" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="34700.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="64000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="62000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="66200.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="3000.0" y="0.0" z="64000.0" angle="270" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="11488.0" y="0.0" z="1003.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1731.0" y="0.0" z="29031.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="44603.0" y="0.0" z="1107.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS4" sideValue="2" type="ALERT">PROXIMITY ALERT: Last wave! Looks like they saved Arvonian carriers for last. Good luck!</incoming_comms_text>
+    <set_variable name="Message" value="4.0" integer="yes" />
+  </event>
+  <event name="Wave 3.3" id_arme="491e38ec-9f23-492a-8479-63edfbbfadb0">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="3.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_exists name="DS5" />
+    <set_difficulty_level value="9" />
+    <create type="enemy" x="78400.0" y="0.0" z="1300.0" angle="145" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77400.0" y="0.0" z="1300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="79400.0" y="0.0" z="1300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="78900.0" y="0.0" z="2300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77900.0" y="0.0" z="2300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="35700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="34700.0" angle="90" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="34700.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="64000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="62000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="66200.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="3000.0" y="0.0" z="64000.0" angle="270" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="11488.0" y="0.0" z="1003.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1731.0" y="0.0" z="29031.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="44603.0" y="0.0" z="1107.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS5" sideValue="2" type="ALERT">PROXIMITY ALERT: Last wave! Looks like they saved Arvonian carriers for last. Good luck!</incoming_comms_text>
+    <set_variable name="Message" value="4.0" integer="yes" />
+  </event>
+  <event name="Wave 3.4" id_arme="b4e0b850-1b37-471f-ac25-12d7a60f9f7c">
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_variable name="Message" comparator="EQUALS" value="3.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <set_difficulty_level value="9" />
+    <create type="enemy" x="78400.0" y="0.0" z="1300.0" angle="145" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77400.0" y="0.0" z="1300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="79400.0" y="0.0" z="1300.0" angle="145" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="78900.0" y="0.0" z="2300.0" angle="145" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="77900.0" y="0.0" z="2300.0" angle="145" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22400.0" y="0.0" z="99000.0" angle="0" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="23400.0" y="0.0" z="99000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="22900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="21900.0" y="0.0" z="98000.0" angle="0" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="33700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="35700.0" angle="90" hullID="2000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="34700.0" angle="90" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="34700.0" angle="90" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="64000.0" angle="270" hullID="4002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="62000.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="66200.0" angle="270" hullID="4001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="3000.0" y="0.0" z="64000.0" angle="270" hullID="3001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="97000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="97000.0" y="0.0" z="99000.0" angle="45" hullID="2001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="99000.0" angle="45" hullID="3002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="99000.0" y="0.0" z="98000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="98000.0" y="0.0" z="99000.0" angle="45" hullID="4000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="11488.0" y="0.0" z="1003.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1731.0" y="0.0" z="29031.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="44603.0" y="0.0" z="1107.0" angle="230" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">PROXIMITY ALERT: Long-range sensors detecting additional hostile contacts.</incoming_comms_text>
+    <set_variable name="Message" value="4.0" integer="yes" />
+  </event>
+  <event name="Skaraans 1.1" id_arme="4477cf47-878c-418d-ab8d-1af9928f6bf3">
+    <if_timer_finished name="Skaraans1" />
+    <if_variable name="Skaraans" comparator="EQUALS" value="0.0" />
+    <if_exists name="DS3" />
+    <set_variable name="Skaraans" value="1.0" integer="yes" />
+    <create type="enemy" x="38000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="1000.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="42000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">PROXIMITY ALERT: Skaraan energy signatures detected. They must have come to see what all the commotion is about. Be careful!</incoming_comms_text>
+  </event>
+  <event name="Skaraans 1.2" id_arme="bde83a63-8f81-4534-8f4d-be2f18412bbf">
+    <if_timer_finished name="Skaraans1" />
+    <if_variable name="Skaraans" comparator="EQUALS" value="0.0" />
+    <if_not_exists name="DS3" />
+    <if_exists name="DS4" />
+    <set_variable name="Skaraans" value="1.0" integer="yes" />
+    <create type="enemy" x="38000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="1000.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="42000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS4" sideValue="2" type="ALERT">PROXIMITY ALERT: Skaraan energy signatures detected. They must have come to see what all the commotion is about. Be careful!</incoming_comms_text>
+  </event>
+  <event name="Skaraans 1.3" id_arme="d721027f-700b-46e1-a73f-89476c2818c8">
+    <if_timer_finished name="Skaraans1" />
+    <if_variable name="Skaraans" comparator="EQUALS" value="0.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_exists name="DS5" />
+    <set_variable name="Skaraans" value="1.0" integer="yes" />
+    <create type="enemy" x="38000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="1000.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="42000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="DS5" sideValue="2" type="ALERT">PROXIMITY ALERT: Skaraan energy signatures detected. They must have come to see what all the commotion is about. Be careful!</incoming_comms_text>
+  </event>
+  <event name="Skaraans 1.4" id_arme="f336c33c-603c-455c-8467-ce88f4c86617">
+    <if_timer_finished name="Skaraans1" />
+    <if_variable name="Skaraans" comparator="EQUALS" value="0.0" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <set_variable name="Skaraans" value="1.0" integer="yes" />
+    <create type="enemy" x="38000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="1000.0" angle="230" hullID="5002" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="42000.0" y="0.0" z="1000.0" angle="180" hullID="5000" sideValue="1" fleetnumber="-1" />
+    <create type="enemy" x="1000.0" y="0.0" z="42000.0" angle="270" hullID="5001" sideValue="1" fleetnumber="-1" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">PROXIMITY ALERT: Long-range sensors detecting Skaraan energy signatures.</incoming_comms_text>
+  </event>
+  <event name="DS3 death" id_arme="8f512bd1-ac68-45d2-b2a4-46bfe9f8600c">
+    <if_not_exists name="DS3" />
+    <if_variable name="DS3" comparator="EQUALS" value="1.0" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">DS3 destroyed. Effective sensor range reduced.</incoming_comms_text>
+    <set_variable name="DS3" value="0.0" integer="yes" />
+  </event>
+  <event name="DS4 death" id_arme="b8d34908-5ea7-4da8-8f80-0a59e084b3a9">
+    <if_not_exists name="DS4" />
+    <if_variable name="DS4" comparator="EQUALS" value="1.0" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">DS4 destroyed. Effective sensor range reduced.</incoming_comms_text>
+    <set_variable name="DS4" value="0.0" integer="yes" />
+  </event>
+  <event name="DS5 death" id_arme="59503d43-859c-4786-92d9-5cb73ea6ae87">
+    <if_not_exists name="DS5" />
+    <if_variable name="DS5" comparator="EQUALS" value="1.0" />
+    <incoming_comms_text from="Computer" sideValue="2" type="ALERT">DS5 destroyed. Effective sensor range reduced.</incoming_comms_text>
+    <set_variable name="DS5" value="0.0" integer="yes" />
+  </event>
+  <event name="DS3 dead" id_arme="b10dd55f-4c83-4ed4-9652-e273bf0f76f9">
+    <if_not_exists name="DS3" />
+    <if_variable name="Bases" comparator="EQUALS" value="3.0" />
+    <set_object_property property="sensorSetting" value="1" />
+    <set_variable name="Bases" value="2.0" integer="yes" />
+  </event>
+  <event name="DS4 dead" id_arme="a6b2df97-268a-401c-aabd-2600996f01f9">
+    <if_not_exists name="DS4" />
+    <if_variable name="Bases" comparator="EQUALS" value="3.0" />
+    <set_object_property property="sensorSetting" value="1" />
+    <set_variable name="Bases" value="2.0" integer="yes" />
+  </event>
+  <event name="DS5 dead" id_arme="fdcdf540-94e5-4d81-9e92-66ce07d58038">
+    <if_not_exists name="DS5" />
+    <if_variable name="Bases" comparator="EQUALS" value="3.0" />
+    <set_object_property property="sensorSetting" value="1" />
+    <set_variable name="Bases" value="2.0" integer="yes" />
+  </event>
+  <event name="DS3 + DS4 dead" id_arme="9046e5a3-5fc4-4e0d-9e50-e7f3a41b1fab">
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_variable name="Bases" comparator="EQUALS" value="2.0" />
+    <set_object_property property="sensorSetting" value="2" />
+    <set_variable name="Bases" value="1.0" integer="yes" />
+  </event>
+  <event name="DS3 + DS5 dead" id_arme="cb0ece31-cf15-468c-8661-d78233c3fbd6">
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS5" />
+    <if_variable name="Bases" comparator="EQUALS" value="2.0" />
+    <set_object_property property="sensorSetting" value="2" />
+    <set_variable name="Bases" value="1.0" integer="yes" />
+  </event>
+  <event name="DS3 + DS5 dead" id_arme="63fe0f50-e50f-43e8-b15a-a8f13067225e">
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <if_variable name="Bases" comparator="EQUALS" value="2.0" />
+    <set_object_property property="sensorSetting" value="2" />
+    <set_variable name="Bases" value="1.0" integer="yes" />
+  </event>
+  <event name="DS3 + DS4 + DS5 dead" id_arme="8406ce90-b17c-457e-b28e-2d095beb54e7">
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <if_variable name="Bases" comparator="EQUALS" value="1.0" />
+    <set_object_property property="sensorSetting" value="3" />
+    <set_variable name="Bases" value="0.0" integer="yes" />
+  </event>
+  <event name="Epilogue 1.1" id_arme="ddc50eaa-8c0c-43d0-b2f9-2ac07f6bb099">
+    <if_variable name="Message" comparator="EQUALS" value="4.0" />
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_exists name="DS3" />
+    <incoming_comms_text from="DS3" sideValue="2" type="ALERT">Long range sensors show no more hostiles. We owe you our lives. Well done!</incoming_comms_text>
+    <set_timer name="end_mission1" seconds="10" />
+    <set_variable name="Message" value="5.0" integer="yes" />
+  </event>
+  <event name="Epilogue 1.2" id_arme="9ccb4c7f-0cbb-46c9-b18c-65082e553d0c">
+    <if_variable name="Message" comparator="EQUALS" value="4.0" />
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_not_exists name="DS3" />
+    <if_exists name="DS4" />
+    <incoming_comms_text from="DS4" sideValue="2" type="ALERT">Long range sensors show no more hostiles. We owe you our lives. Well done!</incoming_comms_text>
+    <set_timer name="end_mission1" seconds="10" />
+    <set_variable name="Message" value="5.0" integer="yes" />
+  </event>
+  <event name="Epilogue 1.3" id_arme="918898e8-6e77-4f29-9471-e756a7dfb0e6">
+    <if_variable name="Message" comparator="EQUALS" value="4.0" />
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_exists name="DS5" />
+    <incoming_comms_text from="DS5" sideValue="2" type="ALERT">Long range sensors show no more hostiles. We owe you our lives. Well done!</incoming_comms_text>
+    <set_timer name="end_mission1" seconds="10" />
+    <set_variable name="Message" value="5.0" integer="yes" />
+  </event>
+  <event name="Epilogue 1.4" id_arme="858781a4-2133-4dc7-85ff-aded4f0807c1">
+    <if_variable name="Message" comparator="EQUALS" value="4.0" />
+    <if_fleet_count comparator="EQUALS" value="0.0" sideValue="1" />
+    <if_not_exists name="DS3" />
+    <if_not_exists name="DS4" />
+    <if_not_exists name="DS5" />
+    <incoming_comms_text from="COMPUTER" sideValue="2" type="ALERT">Long range sensors show no more hostile contacts.</incoming_comms_text>
+    <set_timer name="end_mission1" seconds="10" />
+    <set_variable name="Message" value="5.0" integer="yes" />
+  </event>
+  <event name="End" id_arme="212f1e5a-1888-4fdd-9e2c-d5828ca125a6">
+    <if_timer_finished name="end_mission1" />
+    <if_variable name="Message" comparator="EQUALS" value="5.0" />
+    <end_mission />
+  </event>
+</mission_data>
